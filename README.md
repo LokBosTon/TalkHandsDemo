@@ -1,16 +1,8 @@
-# signier_demo
+# TalkHandsDemo
 
-A new Flutter project.
+GDSC solution Challange 2023 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The “TalkHands” solution targets to solve the “Reducing Inequalities” and “Quality Education” goals by providing Sign-to-Text and Audio/Text-to-Sign conversion services and quality educational resources via a mobile app. To test the efficiency of our solution, we made several tests.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
