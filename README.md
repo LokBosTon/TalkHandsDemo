@@ -8,8 +8,24 @@ The “TalkHands” solution targets to solve the “Reducing Inequalities” an
 
 ## Running project
 To run this project you are required to have flutter sdk 3.0.0+ , android emulator or physical device connected to Android Studio
-***Please be noted that this projects haven't been validated for use in IOS
-***All the testing has been done in Windows platforms, therefore you might meet unexpected problems if you try to run it using macOS running devices. Especially ffmpeg and tflite_flutter libraries are known to cause problems on M1 pllatforms
+ * Please be noted that this projects haven't been validated for use in IOS
+ * All the testing has been done in Windows platforms, therefore you might meet unexpected problems if you try to run it using macOS running devices. Especially ffmpeg and tflite_flutter libraries are known to cause problems on M1 pllatforms
 
 Either clone or download this repesitory as zip, locate to folder and run
-flutter run 
+
+```bash
+flutter run
+```
+
+## Details about Project
+### Login credentials for Firebase
+The account given below has access to our Firebase
+solutionchallenge.talkhands@gmail.com
+Password:
+Salam123!
+
+### Optimal work conditions
+Optimal conditions for hand detection system are: 
+ * Hand should be centered in frame
+ * Hand should be lighted properly
+ * Background should be white
